@@ -10,7 +10,16 @@ h2 {
 p {
 font-family: "Droid Serif", serif;
 font-style: oblique;
-
+}
+#rule {
+  font-family: "Droid Serif", serif;
+  font-style: oblique;
+  color: white;
+}
+p:hover {
+  border-bottom: 2px solid yellow;
+  margin-left: 330px;;
+  margin-right: 330px;;
 }
 body {
 text-align: center;
