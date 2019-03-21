@@ -1,4 +1,2 @@
-var functionone = function() {
-  console.log("we got the ")
+var funcitonon = funciton(){
 }
-functionone();
