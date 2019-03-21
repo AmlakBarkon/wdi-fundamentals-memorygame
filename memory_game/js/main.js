@@ -1,1 +1,2 @@
-$("h4").html("yellow");
+var Player = [ "queen", "queen", "king", "king"];
+console.log(Player)
